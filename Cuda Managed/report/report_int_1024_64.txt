@@ -1,0 +1,3 @@
+1Row sorting time: 95.728638 ms
+Column sorting time: 111.409119 ms
+total: 207.137756

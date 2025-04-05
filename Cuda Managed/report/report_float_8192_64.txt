@@ -1,0 +1,17 @@
+8Row sorting time: 0.000000 ms
+Row sorting time: 0.000000 ms
+Row sorting time: 0.000000 ms
+Row sorting time: 0.000000 ms
+Row sorting time: 0.000000 ms
+Row sorting time: 0.000000 ms
+Row sorting time: 0.000000 ms
+Row sorting time: 0.000000 ms
+Column sorting time: 0.000000 ms
+Column sorting time: 0.000000 ms
+Column sorting time: 0.000000 ms
+Column sorting time: 0.000000 ms
+Column sorting time: 0.000000 ms
+Column sorting time: 0.000000 ms
+Column sorting time: 0.000000 ms
+Column sorting time: 0.000000 ms
+total: 0.000000

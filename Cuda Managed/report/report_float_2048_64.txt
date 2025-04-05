@@ -1,0 +1,9 @@
+2Row sorting time: 318.070526 ms
+Row sorting time: 163.099655 ms
+Column sorting time: 552.398621 ms
+Column sorting time: 229.199875 ms
+Row sorting time: 227.312668 ms
+Row sorting time: 157.416611 ms
+Column sorting time: 276.231018 ms
+Column sorting time: 228.214783 ms
+total: 2151.943848
