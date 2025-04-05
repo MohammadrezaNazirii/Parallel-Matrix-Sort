@@ -1,0 +1,2 @@
+# Matrix Sort: Sequential vs. Parallel CUDA C Implementation
+This project involves implementing a matrix sorting algorithm in both sequential and parallel versions using CUDA C. The goal is to sort a matrix of arbitrary parameters sequentially and then implement a parallel version using CUDA to leverage GPU capabilities. The performance of both implementations will be profiled and compared to analyze the efficiency improvements gained from parallelization.
